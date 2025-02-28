@@ -1,0 +1,6 @@
+﻿Date,Name,Age,Sales,Product
+01-11-2024,John,30,1500.5,Laptop
+02-11-2024,Mary,-,1200,Tablet
+03-11-2024,,35,-,Phone
+04-11-2024,Alice,28,1700,Laptop
+Invalid,Bob,40,800,-
